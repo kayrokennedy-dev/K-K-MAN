@@ -31,7 +31,7 @@ header{
         ul{
             display: flex;
             gap: 100px;
-
+            justify-items: center;
             li{
                 color: aliceblue;
                 font-family: 'Barlow Condensed';
