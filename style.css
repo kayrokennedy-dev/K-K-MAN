@@ -30,7 +30,7 @@ header{
 
         ul{
             display: flex;
-            gap: 70px;
+            gap: 100px;
 
             li{
                 color: aliceblue;
@@ -52,7 +52,7 @@ header{
 }
 .descrição{
     position: absolute;
-    top: 45%;
+    top: 55%;
     font-family: 'inter';
     padding: 10px;
     animation: aparecer1 2s ease-in-out forwards;
