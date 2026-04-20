@@ -27,11 +27,9 @@ header{
     padding: 20px;
     animation: aparecer 2s ease-in-out forwards;
     nav{
-
         ul{
             display: flex;
-            gap: 100px;
-            justify-items: center;
+            gap: 60%;
             li{
                 color: aliceblue;
                 font-family: 'Barlow Condensed';
